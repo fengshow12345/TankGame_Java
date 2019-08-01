@@ -30,6 +30,7 @@ public class Game extends JFrame implements ActionListener {
 		Game tg = new Game();
 	}
 
+	//Ìí¼Ó×¢ÊÍ
 	public Game() {
 		cdan = new JMenuBar();
 		cd1 = new JMenu("ÓÎÏ·(G)");
